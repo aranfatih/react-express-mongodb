@@ -1,5 +1,5 @@
 # React-Redux-Express
-React and Express together.
+Boilerplate of React, Express, MongoDB, Passport and Axios.
 
 # Features
 
