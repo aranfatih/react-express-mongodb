@@ -9,8 +9,6 @@
 * PassportJS
 * AxiosJS
 
-https://meet.google.com/rcv-heqr-qig?authuser=0&pli=1
-
 # How it works
 
 Express runs on a port and React on another.
